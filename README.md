@@ -5,11 +5,11 @@
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 </p>
 
-- 🔭 I’m currently working on **my personal portfolio!**
-- 🌱 I’m currently learning **Vue.Js**
+- 🔭 I’m currently working on **my personal career!**
+- 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **cool Front-End projects!**
-- 👨‍💻 All of my projects are available at... work in progress!
-- 💬 Ask me about **HTML5, CSS3, SCSS, JS, BOOTSTRAP, VUE.JS**
+- 👨‍💻 Some of my projects are available at thomasbasadonne.it
+- 💬 Ask me about **HTML5, CSS3, SCSS, JS, BOOTSTRAP, VUE.JS, TAILWIND**
 - 📫 How to reach me **thomasbasadonne@gmail.com**
 - ⚡ Fun fact **Currently watching One Piece🏴‍☠️**
 
