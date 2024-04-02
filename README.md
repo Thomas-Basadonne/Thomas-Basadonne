@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **my personal career!**
 - 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **cool Front-End projects!**
-- 👨‍💻 Some of my projects are available at thomasbasadonne.it
+- 👨‍💻 Some of my projects are available at <a href="thomasbasadonne.it" target="blank">thomasbasadonne.it</a>
 - 💬 Ask me about **HTML5, CSS3, SCSS, JS, BOOTSTRAP, VUE.JS, TAILWIND**
 - 📫 How to reach me **thomasbasadonne@gmail.com**
 - ⚡ Fun fact **Currently watching One Piece🏴‍☠️**
