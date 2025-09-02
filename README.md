@@ -66,7 +66,6 @@
   />
 
 </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-basadonne&" alt="thomas-basadonne" />
 
 
 
