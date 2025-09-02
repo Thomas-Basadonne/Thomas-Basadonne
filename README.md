@@ -1,74 +1,64 @@
 ![MasterHead](Play.png)
-<h1 align="center">Hi 👋, I'm Thomas Basadonne</h1>
-<h3 align="center">A passionate Junior Full-Stack Developer from Italy🇮🇹</h3>
+
+<h1 align="center">Hey 👋, I'm Thomas Basadonne</h1>
+<h3 align="center">Full-Stack Developer • AI tinkerer • Maker</h3>
+
 <p align="right">
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
+  <img align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 </p>
 
-- 🔭 I’m currently working on **my personal career!**
-- 🌱 I’m currently learning **Angular**
-- 👯 I’m looking to collaborate on **cool Front-End projects!**
-- 👨‍💻 Some of my projects are available at <a href="https://thomasbasadonne.it" target="_blank">thomasbasadonne.it</a>
-- 💬 Ask me about **HTML5, CSS3, SCSS, JS, BOOTSTRAP, VUE.JS, TAILWIND**
-- 📫 How to reach me **thomasbasadonne@gmail.com**
-- ⚡ Fun fact **Currently watching One Piece🏴‍☠️**
+---
 
+### 🚀 About Me
+- 🔭 Currently working on **AI + Web projects** (RAG apps, assistants, SaaS)  
+- 🌱 Learning & experimenting with **LLMs, Next.js, Supabase, CLI tools**  
+- 🛠 Building side-projects in **AI, e-commerce, 3D printing & hardware tinkering**  
+- 🎯 Goal: combine **AI + Web Dev** into real-world products  
+- ⚡ Fun fact: I'm turning my home into a fully **smart, automated paradise** 🏠🤖
+  
+---
 
+### 🧠 Focus Areas
+- **Frontend Dev:** React.js, Next.js, Angular, Vue, Tailwind, PWA Studio
+- **Backend & DB:** Supabase (Postgres, Auth, Storage), Node.js, GraphQL  
+- **AI & Gen Tech:** Ollama, LLaMA, Hugging Face, ChromaDB, RAG pipelines, FFT, N8N  
+- **Maker Side:** 3D Printing (Bambu Lab), Raspberry Pi, Arduino, ESP32
 
+---
+
+### 🌐 Connect with me
 <p align="left">
-  <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <a href="https://linkedin.com/in/thomasbasadonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas basadonne" height="30" width="40" />
-      </a>
-      <a href="https://instagram.com/_basah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_basah_" height="30" width="40" />
-      </a>
-    </p>
+  <a href="https://linkedin.com/in/thomasbasadonne" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_basah_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:thomasbasadonne@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
 
-<h3 align="center">Languages and Tools:</h3>
+### ⚙️ Languages & Tools
 <p align="center">
-    <!-- Front-end -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-    <!-- Back-end -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <!-- Strumenti e software -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,postgres,supabase,php,laravel,java,spring" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,unity" />
+  <!-- AI/Other -->
+  <img src="https://skillicons.dev/icons?i=python,go" />
+  <!-- AI custom logos -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/133418192?s=200&v=4" alt="chromadb" width="40" height="40"/>
 </p>
 
-<picture style="margin: 0 auto;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+---
 
-</picture>
-
-
-
-
-
-
+### 🐍 Fun
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
