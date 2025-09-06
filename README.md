@@ -20,7 +20,7 @@
 
 ### 🧠 Focus Areas
 - **Frontend Dev:** React.js, Next.js, Angular, Vue, Tailwind, PWA Studio
-- **Backend & DB:** Supabase (Postgres, Auth, Storage), Node.js, GraphQL  
+- **Backend & DB:** Python, Supabase (Postgres, Auth, Storage), Node.js, GraphQL  
 - **AI & Gen Tech:** Ollama, LLaMA, Hugging Face, ChromaDB, RAG pipelines, FFT, N8N  
 - **Maker Side:** 3D Printing (Bambu Lab), Raspberry Pi, Arduino, ESP32
 
